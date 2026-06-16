@@ -1,0 +1,4 @@
+Usaint Bolt;Jamaica;2.0
+Jefferson Perez;Ecuador;1.0
+Juan Pereira;EE UU;0.3
+Ricard Carapaz;Ecuador;0.9
